@@ -104,13 +104,17 @@ torch.save(model.state_dict(), "COVID_binary_classifier.pth")
 | **Regularization** | Batch Normalization + Dropout (p = 0.7)        |
 | **Scheduler**      | ReduceLROnPlateau (patience = 2, factor = 0.6) |
 
-📈 Visualizations (Planned)
+---
+
+📈 **Visualizations (Planned)**
 
 Confusion matrix and ROC curve plots
 
 Grad-CAM visual heatmaps highlighting affected regions
 
 Model accuracy vs epoch line chart
+
+---
 
 🧩 **Future Enhancements**
 
@@ -122,6 +126,8 @@ Build a Streamlit or Flask dashboard for real-time inference.
 
 Integrate explainability using Grad-CAM or LIME.
 
+---
+
 💡 **Key Learnings**
 
 Developed strong understanding of CNN architecture and image processing.
@@ -132,6 +138,8 @@ Understood the role of batch normalization and dropout in training stability.
 
 Practiced ethical use of medical data and clear model interpretation.
 
+---
+
 📚 **References**
 
 Dataset: University of Minnesota MCFAM Lab Public Dataset
@@ -139,6 +147,8 @@ Dataset: University of Minnesota MCFAM Lab Public Dataset
 Libraries: PyTorch 1.10+, NumPy, scikit-learn
 
 Hardware: GPU (CUDA enabled) and CPU compatibility
+
+---
 
 🏅 **Author**
 
