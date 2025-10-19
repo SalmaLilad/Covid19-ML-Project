@@ -30,3 +30,14 @@ It demonstrates a full ML pipeline — from data collection to visualization, mo
 
 ## 📁 Repository Structure
 
+## 🩸 Dataset
+- Primary dataset: [Kaggle COVID-19 Dataset](https://www.kaggle.com/datasets)
+- Augmented with respiratory ailment data (citation included in the repo)
+
+## 🎯 Future Work
+- Integrate chest X-ray datasets and CNN image classification  
+- Deploy as a simple web dashboard (Streamlit / Flask)  
+- Publish findings in a short paper or poster
+
+---
+
