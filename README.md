@@ -1,6 +1,4 @@
 #  COVID-19 Chest X-ray Classification using Deep Learning (PyTorch)
-# 🦠 COVID-19 Chest X-Ray Classification  
-**Using Deep Learning to Detect Respiratory Illnesses from Medical Imaging**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
