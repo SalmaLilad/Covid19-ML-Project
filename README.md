@@ -10,7 +10,7 @@ The project was inspired by real-world clinical challenges and uses an open data
 The goal of this project is to develop a binary image classifier that distinguishes **COVID-positive** vs. **non-COVID** chest X-rays.  
 The system leverages convolutional neural networks (CNNs) for feature extraction, batch normalization for stability, and dropout regularization to prevent overfitting.  
 
-This project was completed as part of my **Machine Learning repository** to apply the techniques I learned in Python, AI, and Deep Learning courses.
+This project was completed as part of my **Machine Learning repository** to apply the techniques I learned in the 2025 Advanced Machine Learning and Artificial Intelligence Summer Camp at the University of Minnesota
 
 ---
 
