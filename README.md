@@ -1,4 +1,29 @@
 #  COVID-19 Chest X-ray Classification using Deep Learning (PyTorch)
+# 🦠 COVID-19 Chest X-Ray Classification  
+**Using Deep Learning to Detect Respiratory Illnesses from Medical Imaging**
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Utilities-yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+
+---
+
+### 🧠 Project Overview
+This project builds a **Convolutional Neural Network (CNN)** to detect COVID-19 cases from chest X-ray images.  
+Using a dataset provided by the **University of Minnesota’s MCFAM**, the model performs **binary classification** between COVID-positive and non-COVID cases.  
+
+It was developed as part of a **medical AI research exploration**, combining deep learning, dataset engineering, and reproducibility techniques to advance real-world health diagnostics.
+
+---
+
+
+
+
+
+
 
 This repository contains my end-to-end machine learning project that classifies chest X-ray images to detect COVID-19 infection.  
 The project was inspired by real-world clinical challenges and uses an open dataset from the **University of Minnesota MCFAM Lab**, with PyTorch as the primary framework.
