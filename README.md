@@ -112,7 +112,7 @@ Grad-CAM visual heatmaps highlighting affected regions
 
 Model accuracy vs epoch line chart
 
-🧩 Future Enhancements
+🧩 **Future Enhancements**
 
 Extend model to multi-class classification for other respiratory diseases (e.g., pneumonia, bronchitis, asthma).
 
@@ -122,7 +122,7 @@ Build a Streamlit or Flask dashboard for real-time inference.
 
 Integrate explainability using Grad-CAM or LIME.
 
-💡 Key Learnings
+💡 **Key Learnings**
 
 Developed strong understanding of CNN architecture and image processing.
 
@@ -132,7 +132,7 @@ Understood the role of batch normalization and dropout in training stability.
 
 Practiced ethical use of medical data and clear model interpretation.
 
-📚 References
+📚 **References**
 
 Dataset: University of Minnesota MCFAM Lab Public Dataset
 
@@ -140,8 +140,8 @@ Libraries: PyTorch 1.10+, NumPy, scikit-learn
 
 Hardware: GPU (CUDA enabled) and CPU compatibility
 
-🏅 Author
+🏅 **Author**
 
-Salma Lilad
+Saanvi R
 Wayzata High School (Class of 2029) | MN, USA
 Aspiring AI researcher focusing on applied machine learning and medical imaging.
