@@ -9,11 +9,10 @@
 
 ---
 
-### 🧠 Project Overview
-This project builds a **Convolutional Neural Network (CNN)** to detect COVID-19 cases from chest X-ray images.  
-Using a dataset provided by the **University of Minnesota’s MCFAM**, the model performs **binary classification** between COVID-positive and non-COVID cases.  
+###  Project Overview
+This project builds a **Convolutional Neural Network (CNN)** to detect COVID-19 cases from chest X-ray images. The goal of this project is to develop a binary image classifier that distinguishes **COVID-positive** vs. **non-COVID** chest X-rays. Using a dataset provided by the **University of Minnesota’s MCFAM**, the model performs **binary classification** between COVID-positive and non-COVID cases.  Convolutional Neural Networks (CNNs) was used for feature extraction, batch normalization for stability, and dropout regularization to prevent overfitting.  CNN 
 
-It was developed as part of a **medical AI research exploration**, combining deep learning, dataset engineering, and reproducibility techniques to advance real-world health diagnostics.
+This project was completed as part of my **Machine Learning repository** to apply the techniques I learned in the 2025 Advanced Machine Learning and Artificial Intelligence Summer Camp at the University of Minnesota
 
 ---
 
@@ -28,14 +27,6 @@ The project was inspired by real-world clinical challenges and uses an open data
 
 ---
 
-##  Project Overview
-
-The goal of this project is to develop a binary image classifier that distinguishes **COVID-positive** vs. **non-COVID** chest X-rays.  
-The system leverages convolutional neural networks (CNNs) for feature extraction, batch normalization for stability, and dropout regularization to prevent overfitting.  
-
-This project was completed as part of my **Machine Learning repository** to apply the techniques I learned in the 2025 Advanced Machine Learning and Artificial Intelligence Summer Camp at the University of Minnesota
-
----
 
 ##  Core Concepts
 - Image preprocessing & data normalization  
