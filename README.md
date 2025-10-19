@@ -110,7 +110,7 @@ torch.save(model.state_dict(), "COVID_binary_classifier.pth")
 
 ---
 
-📈 **Visualizations (Planned)**
+ **Visualizations (Planned)**
 
 Confusion matrix and ROC curve plots
 
@@ -120,7 +120,7 @@ Model accuracy vs epoch line chart
 
 ---
 
-🧩 **Future Enhancements**
+ **Future Enhancements**
 
 Extend model to multi-class classification for other respiratory diseases (e.g., pneumonia, bronchitis, asthma).
 
@@ -132,7 +132,7 @@ Integrate explainability using Grad-CAM or LIME.
 
 ---
 
-💡 **Key Learnings**
+ **Key Learnings**
 
 Developed strong understanding of CNN architecture and image processing.
 
@@ -144,7 +144,7 @@ Practiced ethical use of medical data and clear model interpretation.
 
 ---
 
-📚 **References**
+ **References**
 
 Dataset: University of Minnesota MCFAM Lab Public Dataset
 
@@ -154,7 +154,7 @@ Hardware: GPU (CUDA enabled) and CPU compatibility
 
 ---
 
-🏅 **Author**
+ **Author**
 
 Saanvi R
 Wayzata High School (Class of 2029) | MN, USA
