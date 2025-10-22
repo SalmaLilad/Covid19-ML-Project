@@ -3,6 +3,9 @@
 This repository implements a **deep convolutional neural network (CNN)** that classifies **chest X-ray images** as either *COVID-positive* or *Non-COVID*.  
 It was developed to explore the role of **AI in healthcare diagnostics**, focusing on model interpretability, data preprocessing, and generalization through batch normalization and dropout regularization.
 
+This Project was built as part of the University of Minnesota 2025 Advanced AI and Machine Learning Summer Camp **Capstone Project**, it explores predictive capbability of COVID 19 using chest Xray images.
+
+
 ---
 
 ## 📦 Overview
