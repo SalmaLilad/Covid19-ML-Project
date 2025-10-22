@@ -3,6 +3,9 @@
 A convolutional neural network (CNN) for **binary COVID-19 classification** using 64×64 chest X-ray images.  
 This model distinguishes **COVID vs. Non-COVID** samples using supervised learning and datasets from the [University of Minnesota MCFAM repository](http://www-users.math.umn.edu/~jwcalder/MCFAM/).
 
+Built as part of the University of Minnesota 2025 Advanced AI and Machine Learning Summer Camp **Capstone Project**, it explores predictive capbability of COVID 19 using chest Xray images.
+
+Built as part of the University of Minnesota 2025 Basic Machine Learning Summer Camp **Capstone Project**, it explores fairness and real-world applications of AI in social data.
 ---
 
 ## 📦 Overview
