@@ -5,8 +5,7 @@ This model distinguishes **COVID vs. Non-COVID** samples using supervised learni
 
 Built as part of the University of Minnesota 2025 Advanced AI and Machine Learning Summer Camp **Capstone Project**, it explores predictive capbability of COVID 19 using chest Xray images.
 
-Built as part of the University of Minnesota 2025 Basic Machine Learning Summer Camp **Capstone Project**, it explores fairness and real-world applications of AI in social data.
----
+
 
 ## 📦 Overview
 This project demonstrates:
