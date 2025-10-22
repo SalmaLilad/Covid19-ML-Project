@@ -132,7 +132,7 @@ Model saved to COVID_binary_classifier.pth
 ---
 
 ## 🧬 Author
-**Saanvi L.**  
+**Saanvi R.**  
 Applied AI & Computing Portfolio — Machine Learning Project  
 Built with **PyTorch**, **NumPy**, and **scikit-learn**
 
