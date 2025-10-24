@@ -235,7 +235,7 @@ Learning rate adjusted: 0.001 → 0.0006 after plateau
 
 ##  Author
 
-**Saanvi**  
+**Saanvi ([@SalmaLilad](https://github.com/SalmaLilad))**  
 Applied AI & Computing Portfolio — Machine Learning Project  
 Developed to explore **AI’s role in real-world diagnostic modeling**, with a focus on accuracy, ethics, and reproducibility.  
 Built with **PyTorch**, **NumPy**, and **scikit-learn**.
