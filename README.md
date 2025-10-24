@@ -1,4 +1,4 @@
-# 🧠 COVID-19 Chest X-ray Classifier (PyTorch)
+#  COVID-19 Chest X-ray Classifier (PyTorch)
 
 This repository implements a **deep convolutional neural network (CNN)** that classifies **chest X-ray images** as either *COVID-positive* or *Non-COVID*.  
 It was developed to explore the role of **AI in healthcare diagnostics**, focusing on model interpretability, data preprocessing, and generalization through batch normalization and dropout regularization.
@@ -8,22 +8,22 @@ This Project was built as part of the University of Minnesota 2025 Advanced AI a
 
 ---
 
-## 📦 Overview
+##  Overview
 
 This project demonstrates the complete end-to-end process of developing a medical imaging classifier using **PyTorch**.  
 It downloads and preprocesses datasets, builds a CNN from scratch, and uses adaptive learning-rate scheduling to improve convergence.  
 The model is capable of achieving above 95% test accuracy on 64×64 X-ray images with minimal preprocessing.
 
 ### Key Highlights
-- 📥 Automatic dataset download  
-- 🧠 4-layer convolutional architecture  
-- ⚡ GPU support for accelerated training  
-- 📉 Adaptive learning rate scheduling with `ReduceLROnPlateau`  
-- 💾 Model saving and reloading for later inference
+-  Automatic dataset download  
+-  4-layer convolutional architecture  
+-  GPU support for accelerated training  
+-  Adaptive learning rate scheduling with `ReduceLROnPlateau`  
+-  Model saving and reloading for later inference
 
 ---
 
-## 🧬 Dataset
+##  Dataset
 
 This project uses open-access chest X-ray datasets hosted by the **University of Minnesota’s MCFAM repository**.  
 Each image is a 64×64 grayscale scan, and labels are one-hot encoded across four categories, later collapsed into a binary classification.
@@ -49,7 +49,7 @@ Each image is paired with a one-hot vector label and later transformed into bina
 
 ---
 
-## ⚙️ Model Architecture
+##  Model Architecture
 
 The classifier uses a **4-block convolutional neural network** that progressively extracts spatial patterns and texture gradients from X-ray data.  
 Each layer includes **batch normalization** (for stability) and **ReLU activation** (for non-linearity), followed by **max pooling** to reduce dimensionality.  
@@ -76,7 +76,7 @@ Model successfully initialized.
 
 ---
 
-## 🚀 Training
+##  Training
 
 The training process is handled through custom `train()` and `test()` functions.  
 The model iteratively optimizes its parameters by minimizing cross-entropy loss and adapts its learning rate based on validation performance.  
@@ -107,7 +107,7 @@ As epochs progress, training loss steadily decreases while test accuracy rises, 
 
 ---
 
-## 📊 Results and Evaluation
+##  Results and Evaluation
 
 After 10 epochs, the model achieves strong binary classification accuracy and generalization performance.  
 Performance may vary depending on system hardware, random seed, and number of epochs.
@@ -132,7 +132,7 @@ The model demonstrates excellent convergence with consistent validation accuracy
 
 ---
 
-## 💾 Model Saving and Reloading
+##  Model Saving and Reloading
 
 After training, the model is automatically serialized to disk for reuse and deployment.  
 This ensures reproducibility and allows continued inference without retraining.
@@ -157,7 +157,7 @@ Ready for COVID detection on new data.
 
 ---
 
-## 🧠 Requirements and Environment Setup
+##  Requirements and Environment Setup
 
 The model runs efficiently on both **CPU and GPU** using Python 3.9+ and PyTorch ≥ 2.0.  
 Dependencies can be installed with pip:
@@ -178,7 +178,7 @@ pip install torch --index-url https://download.pytorch.org/whl/cu121
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 The repository follows a simple, modular layout to make navigation and experimentation straightforward.
 
@@ -194,7 +194,7 @@ Each component can be replaced or extended—for example, substituting datasets 
 
 ---
 
-## 📈 Example Output Summary
+##  Example Output Summary
 
 Below is a sample summary of the full training cycle on GPU:
 
@@ -213,7 +213,7 @@ The model achieves stable convergence after ~8–10 epochs and remains robust on
 
 ---
 
-## 🧩 Code Components Overview
+##  Code Components Overview
 
 Each major function serves a distinct purpose in the training pipeline.
 
@@ -233,7 +233,7 @@ Learning rate adjusted: 0.001 → 0.0006 after plateau
 
 ---
 
-## 🧬 Author
+##  Author
 
 **Saanvi L.**  
 Applied AI & Computing Portfolio — Machine Learning Project  
