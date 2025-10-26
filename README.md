@@ -242,6 +242,13 @@ Built with **PyTorch**, **NumPy**, and **scikit-learn**.
 
 ---
 
+##  AI Assistance Disclosure
+
+This README was prepared with the assistance of an AI agent to enhance structure, clarity, and technical documentation quality.  
+All project code, architecture, and experimental results were independently authored, implemented, and verified by me. I provided the outline, structure and content for this ReadME and the AI assistant was used exclusively for documentation, drafting, formatting, and summarization purposes.
+
+---
+
 ## ⚠️ License & Disclaimer
 
 This repository is for **educational and research use only**.  
